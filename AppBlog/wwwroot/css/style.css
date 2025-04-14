@@ -1,0 +1,19 @@
+/* bootstrap kütüphane işlemlerini erçekleştirdikten sonra css kodlarını yazıyoruz */
+
+body{
+    background-color: #eff2f6;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* .card a{
+    padding-left: 10px;
+} */
+
+.avatar{
+    width: 3rem;
+    height: 3rem;
+}
+
